@@ -1,0 +1,26 @@
+
+»
+java:S4449O"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(ÕÄÑœøÿÿÿÿHºŸRMAJORZ
+CODE_SMELL
+»
+java:S4449v"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(ÕÄÑœøÿÿÿÿH¼ŸRMAJORZ
+CODE_SMELL
+‡
+java:S1192L"KDefine a constant instead of duplicating this literal "Dealer: {}" 3 times.(´Ä©‘şÿÿÿÿ8œÃÎÿâ0H¾ŸRCRITICALZ
+CODE_SMELL
+¼
+java:S4449˜"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(ÕÄÑœøÿÿÿÿHÂŸRMAJORZ
+CODE_SMELL
+½
+java:S4449:"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(àÂĞ‘8œïËÿâ0HÄŸRMAJORZ
+CODE_SMELL
+x
+java:S4684X"@Replace this persistent entity with a simple POJO or DTO object.(¶‘ÿµıÿÿÿÿHÆŸRCRITICALZVULNERABILITY
+‘
+java:S1192?"ZDefine a constant instead of duplicating this literal "You are Unauthorized!..." 12 times.(ù¨»Ç8µÊªšâ0HÇŸRCRITICALZ
+CODE_SMELL
+s
+java:S4684m"@Replace this persistent entity with a simple POJO or DTO object.(¿«İûHÔŸRCRITICALZVULNERABILITY
+µ
+java:S4449d"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(€¼'HÕŸRMAJORZ
+CODE_SMELL

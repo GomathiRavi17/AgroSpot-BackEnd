@@ -1,0 +1,28 @@
+
+~
+java:S6204""RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹H„RMAJORZ
+CODE_SMELL
+b
+java:S1135("2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿH…RINFOZ
+CODE_SMELL
+b
+java:S1135/"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿH†RINFOZ
+CODE_SMELL
+b
+java:S11356"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿH‡RINFOZ
+CODE_SMELL
+b
+java:S1135="2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHˆRINFOZ
+CODE_SMELL
+b
+java:S1135D"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿH‰RINFOZ
+CODE_SMELL
+b
+java:S1135K"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHŠRINFOZ
+CODE_SMELL
+b
+java:S1135R"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿH‹RINFOZ
+CODE_SMELL
+T
+java:S1068"(Remove this unused "role" private field.(±õÉÖHŒRMAJORZ
+CODE_SMELL

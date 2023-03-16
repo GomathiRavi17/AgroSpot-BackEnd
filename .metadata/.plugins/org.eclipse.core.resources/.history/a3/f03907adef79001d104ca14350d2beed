@@ -1,0 +1,76 @@
+package com.admin.model;
+
+import org.springframework.data.annotation.Id;
+import org.springframework.data.mongodb.core.mapping.Document;
+
+@Document(collection = "farmers")
+public class Farmer {
+
+	@Id
+	private int fid;
+	private String name;
+	private String email;
+	private String address;
+	private String phoneNo;
+
+	public Farmer() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public Farmer(int fid, String name, String email, String address, String phoneNo) {
+		super();
+		this.fid = fid;
+		this.name = name;
+		this.email = email;
+		this.address = address;
+		this.phoneNo = phoneNo;
+	}
+
+	public int getFid() {
+		return fid;
+	}
+
+	public void setFid(int fid) {
+		this.fid = fid;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public String getEmail() {
+		return email;
+	}
+
+	public void setEmail(String email) {
+		this.email = email;
+	}
+
+	public String getAddress() {
+		return address;
+	}
+
+	public void setAddress(String address) {
+		this.address = address;
+	}
+
+	public String getPhoneNo() {
+		return phoneNo;
+	}
+
+	public void setPhoneNo(String phoneNo) {
+		this.phoneNo = phoneNo;
+	}
+
+	@Override
+	public String toString() {
+		return "Farmer [fid=" + fid + ", name=" + name + ", email=" + email + ", address=" + address + ", phoneNo="
+				+ phoneNo + "]";
+	}
+
+}

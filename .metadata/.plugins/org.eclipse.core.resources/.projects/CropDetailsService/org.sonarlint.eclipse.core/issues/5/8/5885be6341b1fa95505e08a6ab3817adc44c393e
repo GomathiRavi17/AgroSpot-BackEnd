@@ -1,0 +1,8 @@
+
+n
+java:S1126"AReplace this if-then-else statement by a single return statement.(ý•°¾Hõ—RMINORZ
+CODE_SMELL
+r	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÕŸˆùHö—RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(«òÆÿþÿÿÿÿH÷—RMAJORZ
+CODE_SMELL

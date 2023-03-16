@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <meta charset="UTF-8"/>
+    <title>Payment Report</title>
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css"/>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+     <link href="https://fonts.googleapis.com/icon?family=Nunito"
+      rel="stylesheet">
+    <style>
+    body {
+            background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
+            color: #023020;
+            font-family: 'Nunito', sans-serif;
+        }
+        
+
+
+button {
+	background-color: #378805;
+	color: white;
+	border: 3px solid #378805;
+	border-radius: 10px;
+	width: 150px;
+}
+
+nav {
+	background-color: #378805;
+	height: 60px;
+	font-family: 'Nunito', sans-serif;
+	font-size: 18px;
+}
+    </style>
+</head>
+<body>
+	<nav class="navbar fixed-top navbar-expand-lg navbar-dark p-md-4">
+			<div class="container">
+				<a class="navbar-brand text-white">AGRO SPOT</a>
+				<button class="navbar-toggler" type="button"
+					data-bs-toggle="collapse" data-bs-target="#navbarNav"
+					aria-controls="navbarNav" aria-expanded="false"
+					aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon text-black"></span>
+				</button>
+
+				<div id="navbarNav">
+					<div class="mx-auto"></div>
+					<ul class="navbar-nav">
+						</li> &nbsp; &nbsp;
+						<li class="nav-item active"><button class="nav-link text-white"
+							onClick=logout()>Log Out</button></li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+	</header><br><br>
+<div class="container">
+    <div class="row">
+        <div class="well col-xs-10 col-sm-10 col-md-6 col-xs-offset-1 col-sm-offset-1 col-md-offset-3">
+            <div class="row">
+                <div class="col-xs-6 col-sm-6 col-md-6">
+                    <strong th:text="${result}"></strong>
+                    <br>
+                </div>
+                <div class="col-xs-6 col-sm-6 col-md-6 text-right">
+                    <p>
+                        <em>Receipt #: 34522677W</em>
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="text-center">
+                    <h1>Receipt</h1>
+                </div>
+               
+                <table class="table table-hover">
+                    <thead>
+                    <tr>
+                        <th>Components</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+
+                    <tr th:each="entry : ${parameters}">
+
+                        <td th:text="${entry.key} + '  : -  ' + ${entry.value}"></td>
+                      
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

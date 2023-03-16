@@ -1,0 +1,8 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(«òÆÿþÿÿÿÿ8µÙÌ¸Ñ0HÏmRMAJORZ
+CODE_SMELL
+x	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÕŸˆù8µÙÌ¸Ñ0HÎmRMAJORZ
+CODE_SMELL
+y
+java:S1126"AReplace this if-then-else statement by a single return statement.(“ì¾ºÿÿÿÿÿ8µÙÌ¸Ñ0HÐmRMINORZ
+CODE_SMELL

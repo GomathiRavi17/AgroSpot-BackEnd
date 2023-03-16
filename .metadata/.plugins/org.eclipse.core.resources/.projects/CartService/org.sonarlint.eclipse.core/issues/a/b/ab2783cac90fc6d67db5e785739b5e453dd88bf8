@@ -1,0 +1,11 @@
+
+`
+java:S2201C"/The return value of "orElseThrow" must be used.(ûéÍŸıÿÿÿÿ8«…èŸÑ0H‹bRMAJORZBUG
+
+java:S1192$"RDefine a constant instead of duplicating this literal "Cart with the id " 4 times.(°”¯âüÿÿÿÿ8‡áá Ñ0HÁeRCRITICALZ
+CODE_SMELL
+	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øªşşÿÿÿÿH–aRMINORZ
+CODE_SMELL
+„
+java:S1192$"PDefine a constant instead of duplicating this literal " Doesn't Exists" 3 times.(°”¯âüÿÿÿÿH’aRCRITICALZ
+CODE_SMELL

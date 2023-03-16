@@ -1,0 +1,19 @@
+
+º
+java:S4449c"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(ÕÄÑœøÿÿÿÿHú^RMAJORZ
+CODE_SMELL
+
+java:S11924"ZDefine a constant instead of duplicating this literal "You are Unauthorized!..." 10 times.(ù¨»Ç8íÊ¤úĞ0Hü^RCRITICALZ
+CODE_SMELL
+º
+java:S4449C"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(ÕÄÑœøÿÿÿÿHö^RMAJORZ
+CODE_SMELL
+´
+java:S4449S"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(€¼'Hğ^RMAJORZ
+CODE_SMELL
+µ
+java:S4449/"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(àÂĞ‘H‡_RMAJORZ
+CODE_SMELL
+
+java:S1192@"IDefine a constant instead of duplicating this literal "Cart: {}" 3 times.(œÿ„8áŸáŸÑ0H˜`RCRITICALZ
+CODE_SMELL

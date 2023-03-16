@@ -1,0 +1,6 @@
+
+r	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÕŸˆùH½•RMAJORZ
+CODE_SMELL
+s
+java:S1126"AReplace this if-then-else statement by a single return statement.(ÉÅÝˆøÿÿÿÿH¿•RMINORZ
+CODE_SMELL

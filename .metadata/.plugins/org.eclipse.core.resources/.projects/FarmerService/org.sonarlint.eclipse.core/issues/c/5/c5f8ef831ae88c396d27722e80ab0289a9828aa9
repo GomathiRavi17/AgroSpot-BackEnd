@@ -1,0 +1,10 @@
+
+u
+java:S1126"AReplace this if-then-else statement by a single return statement.(ı•°¾8Ìÿ«Ğ0HÃ—RMINORZ
+CODE_SMELL
+q	java:S106"9Replace this use of System.out or System.err by a logger.(«òÆÿşÿÿÿÿ8Ìÿ«Ğ0HÄ—RMAJORZ
+CODE_SMELL
+	java:S116"[Rename this field "FarmerAuthClient" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¨ä„8Ş±Ï0HÅ—RMINORZ
+CODE_SMELL
+y	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÕŸˆù8ÕìûÏ0HÆ—RMAJORZ
+CODE_SMELL

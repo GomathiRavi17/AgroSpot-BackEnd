@@ -1,0 +1,14 @@
+
+{
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ƒç­€8ú‡Œ¥Ñ0HşRCRITICALZVULNERABILITY
+}
+java:S1192H"MDefine a constant instead of duplicating this literal "CHECKSUMHASH" 3 times.(ö‘€±HÿRCRITICALZ
+CODE_SMELL
+e	java:S106d"9Replace this use of System.out or System.err by a logger.(ŒíÀàHƒRMAJORZ
+CODE_SMELL
+‹
+java:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(„İëªûÿÿÿÿH„RMINORZ
+CODE_SMELL
+p
+java:S1612A"<Replace this lambda with method reference 'parameters::put'.(ö¾É8—İÓûĞ0H†RMINORZ
+CODE_SMELL

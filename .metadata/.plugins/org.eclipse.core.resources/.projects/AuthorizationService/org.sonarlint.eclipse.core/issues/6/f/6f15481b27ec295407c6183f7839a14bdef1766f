@@ -1,0 +1,9 @@
+
+~
+java:S1192'"GDefine a constant instead of duplicating this literal "DEALER" 3 times.(Óåá¶8ü±’ÊÑ0H‚ŸRCRITICALZ
+CODE_SMELL
+}
+java:S1192'"FDefine a constant instead of duplicating this literal "ADMIN" 4 times.(Óåá¶8Ö©Û¬Ð0H†ŸRCRITICALZ
+CODE_SMELL
+v
+java:S5344">Don't use the default "PasswordEncoder" relying on plain-text.(ÝÔÜºùÿÿÿÿH‹ŸRCRITICALZVULNERABILITY

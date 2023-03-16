@@ -1,0 +1,7 @@
+com.farmer
+com.farmer.controller
+com.farmer.exception
+com.farmer.feignclient
+com.farmer.model
+com.farmer.repository
+com.farmer.service

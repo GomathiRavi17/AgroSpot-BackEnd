@@ -1,0 +1,23 @@
+
+‰
+java:S11924"ZDefine a constant instead of duplicating this literal "You are Unauthorized!..." 10 times.(ù¨»ÇHÚeRCRITICALZ
+CODE_SMELL
+x
+java:S1192@"IDefine a constant instead of duplicating this literal "Cart: {}" 3 times.(œÿ„HåeRCRITICALZ
+CODE_SMELL
+µ
+java:S4449/"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(àÂĞ‘HéeRMAJORZ
+CODE_SMELL
+º
+java:S4449c"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(ÕÄÑœøÿÿÿÿHëeRMAJORZ
+CODE_SMELL
+´
+java:S4449S"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(€¼'HíeRMAJORZ
+CODE_SMELL
+º
+java:S4449C"ˆAnnotate the parameter with @javax.annotation.Nullable in constructor declaration, or make sure that null can not be passed as argument.(ÕÄÑœøÿÿÿÿHïeRMAJORZ
+CODE_SMELL
+r
+java:S4684L"@Replace this persistent entity with a simple POJO or DTO object.(Ì‚¤ÄHñeRCRITICALZVULNERABILITY
+w
+java:S4684\"@Replace this persistent entity with a simple POJO or DTO object.(íà•‘ûÿÿÿÿHòeRCRITICALZVULNERABILITY

@@ -1,0 +1,11 @@
+
+
+java:S1192$"PDefine a constant instead of duplicating this literal " Doesn't Exists" 3 times.(Ğ€œHìlRCRITICALZ
+CODE_SMELL
+‹
+java:S1192$"UDefine a constant instead of duplicating this literal "Invoice with the id " 4 times.(Ğ€œ8²‹ğÑ0HñlRCRITICALZ
+CODE_SMELL
+	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öó™áúÿÿÿÿHëlRMINORZ
+CODE_SMELL
+T
+java:S2201E"/The return value of "orElseThrow" must be used.(Ã™ÇHğlRMAJORZBUG
